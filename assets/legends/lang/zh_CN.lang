@@ -20,7 +20,7 @@ key.legends.keyanimation.desc=Animation Key
 key.legends.keylegacy.desc=Legacy Key
 key.legends.armor.desc=Armor Key
 key.legends.specialization.desc=Specialization Key
-key.legends.durability.desc=Toggle Durability Key
+key.legends.durability.desc=显示装备耐久
 
 //Abilities
 ability.healthBoost=生命提升
